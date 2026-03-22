@@ -1,0 +1,2 @@
+## create local host http://localhost:4004 service
+http://localhost:4004/odata/v4/MyService/rajeev(name='raj')
